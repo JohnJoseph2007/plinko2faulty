@@ -1,1 +1,1 @@
-# plinko2faulty
+# plinkoFaulty
